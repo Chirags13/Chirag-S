@@ -1,0 +1,7 @@
+-  👋Hi, I’m Chirag S
+-  🖥️I'm a student pursuing computer science and engineering. I believe time and technology, when used properly can bring a lot of changes and improvements in our daily life.
+-  ⌛I strictly follow punctuality and emphasize on time manegement.
+-  💪Presence of mind, clarity along with assessing the current situation are on of my key strengths.
+-  👨‍💻'Create, Analyse, Improve' is my Motto and I have been follwing it since my Computer Science journey has started.
+-  💡Have a good knowledge of C++ Programming language and currently learning Python Progamming Knowledge. 
+-  🙌Looking forward to create and collaborate with this huge community of experienced developers and coders. 
